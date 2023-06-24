@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+#button-1{
+	background-color:blue;
+	color:white;
+}
+#button-2{
+	background-color:whitesmoke;
+	color:black;
+}
+#button-3{
+	height:50px;
+}
+#button-4{
+	height:30px;
+}
+#button-5{
+	background-color:yellow;
+	width:100%;
+}
